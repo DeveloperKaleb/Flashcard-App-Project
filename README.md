@@ -7,3 +7,11 @@ It could be used to study any number of topic because the user can input and edi
 Upon opening the user is brought to a home page. There are multiple buttons which the user can click from here. 
 
   ![Home Page screenshot](screenshots/Home%20Page%20of%20Flashcard%20App.png)
+  
+Users can view indiviual decks.
+
+  ![View Deck screenshot](screenshots/View%20Deck%20Page.png)
+
+Users can also study indiviual decks, while doing so they can flip the card from "front" to "back".
+
+  ![Study Page](screenshots/Study%20Page%20(front%20side%20showing).png)
