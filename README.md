@@ -6,4 +6,4 @@ It could be used to study any number of topic because the user can input and edi
 
 Upon opening the user is brought to a home page. There are multiple buttons which the user can click from here. 
 
-  ![Home Page screenshot]()
+  ![Home Page screenshot](screenshots/Home%20Page%20of%20Flashcard%20App)
